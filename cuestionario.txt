@@ -1,1 +1,17 @@
-ejemplo
+En tus palabras, ¿Qué es internet?
+R=es una red de computadoras conectadas
+Describe los medios físicos y de propagación de ondas por los que se transmite la información en internet.
+R=el cable de medio fisico y por ondas el wifi
+¿Cómo se organiza internet? Habla de las direcciones IP y los DNS.
+R=las direcciones IP son numeraciones fisicas de algun sitio web en especifico y los DNS por medio a donde se va a llegar a ese sitio
+Describe el procedimiento por el cual una canción de Spotify llega del servidor de la compañía a tu celular.
+R=Se reproduce en un servidor que esta en la nube y se escucha en tu celular
+Describe los protocolos que existen en internet, en específico HTTP y HTML
+R=HTTP es hypertext y HTML es un leguaje de programacion
+En dos párrafos cuéntanos lo que aprendiste sobre encriptación y llaves públicas.
+R=encriptar es como encubrir informacion a traves de un algoritmo
+llaves publicas son contraseñas para bloquear el acesso al publico
+En dos párrafos cuéntanos lo que aprendiste sobre cómo protegerte de los criminales en internet.
+R=atraves de ativirus,cambiando los passwords de tus equipos,creando redes privadas como vpn
+¿Cómo funciona la búsqueda de google?
+R=google tiene muchos servidores y con algoritmos inteligentes te da lo que buscas
